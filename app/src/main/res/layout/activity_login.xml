@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.awn.app.raion.Splash">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/login_bg"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:maxHeight="250dp"
+        android:maxWidth="250dp"
+        android:src="@drawable/login_logo"
+        android:scaleType="centerInside"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/login_nim"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignTop="@+id/edtUser"
+        android:layout_alignStart="@+id/edtUser"
+        />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/login_pass"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignTop="@+id/edtPass"
+        android:layout_alignStart="@+id/edtPass"
+        />
+
+    <EditText
+        android:id="@+id/edtUser"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:hint="NIM"
+        android:inputType="number"
+        android:maxLines="1"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginTop="70dp"
+        android:paddingLeft="45dp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/logo"
+        android:textColorHint="#FFFFFF"
+        android:colorControlNormal="#FFFFFF"
+        android:colorControlActivated="#FFFFFF"
+        />
+
+    <EditText
+        android:id="@+id/edtPass"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="45dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/edtUser"
+        android:textColorHint="#FFFFFF"
+        android:colorControlNormal="#FFFFFF"
+        android:colorControlActivated="#FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="#2db4cc"
+        android:layout_marginTop="21dp"
+        android:textAllCaps="true"
+        android:text="login"
+        android:onClick="Login"
+        android:textStyle="bold"
+        android:textColor="#102438"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_below="@+id/edtPass"
+        android:layout_alignStart="@+id/edtPass"
+        />
+
+</RelativeLayout>

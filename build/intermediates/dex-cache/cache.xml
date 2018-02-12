@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/621e2ba61223d4fefbf5ee3e178cd67ac958031b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_9964e5829285b895214861ea476cb03714d90e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/d6bf38e26e3cc31b4c204a3c68ed394276db12e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_d0167e0dcbb8bf74b3a1a808339a35feea043e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/8cf737154d91a65d79994f91b7f0c8ce5e455ae8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_1608ed4ccaa496999e20085c58f258c950f804be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/f6239d4d638ecea05d02924b5c43b8b5b62e1cbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_91182edc466193ce08bf63c7d5fe3fc578c3be30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/8ea85e3ab433b0ce78840bfb5d56b3c44c4dba9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97ef155e31039e0888ef41f3041d5ad2821cf895">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_33668016dae0b07498518bb75cc9fd399ff49606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_84b24fa4c62db3a29b48589f2fff2e66c48fe63f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/4213c4dc62bd1a012361eacda1d3fbe23b6c96bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_1e7105da5962b4fbfcca9f8984caa700fe1d0ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/8c0234cbab359c55e38dffa808d20e1e5d7e7945/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_47fee640d67ef594ae1e281d7fdb724b4d7bf7ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/59e1c8980d99199e514dee6771eb7e9b862fbcca/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b2b93055bbaf7704eb9ec80a5ee47721d7381e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/621e2ba61223d4fefbf5ee3e178cd67ac958031b/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_65c3e1d30c0eb200069792c753746fa559d5fea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/680910e220a60f30f36bee0a223bdf9a0c33a7a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_b1d1ca699a231d1c043d2e6b7924b48d3babda01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/4f40e92df2084e3661bda71b6dc428be5ed22436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_5dd2dcdd1ff5fe7497cc02ce71f0c90d5478f3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/59e1c8980d99199e514dee6771eb7e9b862fbcca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_a30fca817d81d15a6564c6dd9bc746be97e542d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/8c0234cbab359c55e38dffa808d20e1e5d7e7945/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_225143f8743dd0d1fd33f24f37d8e8b76a2e2f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b61431c07f2f308fe641c938a1c44754ebe98d6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ccf33881ef02c7ef7076f51ee64f37b6d0b2adf">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c0b43dc347bd058212a89c3dbdb121d9cded76d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/05b85e332ca9c82c469ac7ff01f97bf0ce5b2362/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_2b70bf628dc7198d277bf3d372aa63692a269159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/c2a48cdc9e3d6a87af0ce5a1714737f86233aec4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_36ff821513e04e3a6f5ebd728ca4533340886029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/2f1f9780520e9bb36e0f101fe080918c486dc349/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_f7f9e53e4e86937e703b2b7f4a6ee9a49590caf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/87ecea02073f2e8164d2ce156d7f9831f5aee84e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_982d01690c35865644d700e61bbf66f192f3c010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/50cb9fb3940761cff9e1d313688943d92d4deaf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_3b5adca1c336e68370156196d309d573f4942ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/e0369f23ae3afdfdc7a3d36b154818cef05c1092/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d7d0e4ac98d10d12440eb5a1dedf70b0f0a1a7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/681552262d2a749120f0f3d5604a76bb8b98aa13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_dc1331becc0a771cc8f3ac7418f565a9551d19a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/e0369f23ae3afdfdc7a3d36b154818cef05c1092/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_f4e62f07561056f52e96845260fca082c7acf265.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb6c87693c8b909f6ce7eb100b2aca239752e8a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/6800aa21f18ee92fc982c9cbd46c24949db2dd81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bae64da9140d1e78edb6f28a1b4c8831aac4ab88">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_fc6e65374638ae54774141291271fbe19c45a7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/680910e220a60f30f36bee0a223bdf9a0c33a7a4/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_37108b3e3fd38bb92d074483d900c5420b0838d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/d4feb60f0bb763bf6983aa1367bc2399a84fd173/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Raion/app/build/intermediates/pre-dexed/debug/classes_fa316e0108e11399559a4be18dc5e0ea01d27d77.jar" />
+    </item>
+
+</items>

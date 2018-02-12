@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#f4f4f4" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/pager"
+        android:text="MAPS"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="#2f5782"
+        />
+
+    <ImageButton
+        android:id="@+id/maps"
+        android:layout_width="wrap_content"
+        android:layout_height="140dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/map" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/pager"
+        android:text="EVENT LIST"
+        android:textColor="#FFFFFF"
+        android:background="#2f5782"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+
+    <ExpandableListView
+        android:id="@+id/lvExpEvent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
